@@ -1,24 +1,27 @@
-# Master: Global Dogecoin & Bitcoin Arena
-
-Master is the elite auction platform. Fast, transparent, and high-stakes.
-
-### 💰 Deposit Wallets
-To participate, send your assets to our official vault addresses:
-* **Dogecoin (DOGE):** [DLbofEEyVgeX4WApGS8NUDhUBprz5tigsZ]
-* **Bitcoin (BTC):** [bc1qtpt0cy296xm38lv9fd5wvqjwvcyhxt4xewncxf]
-
-### 🚀 How to Register & Claim
-To participate and claim your winnings:
-1. Go to the "Issues" tab in this repository.
-2. Click "New Issue".
-3. Title it: "Entry for Master".
-4. In the description, paste your wallet address and the asset you deposited.
-
-### 🏆 Prize Tiers
-* **1st Place:** 200% Return.
-* **2nd Place:** 100% Return.
-* **3rd Place:** 50% Return.
-
-Transparency first: All transactions are public. Payouts are verified and processed manually within 2 hours.
-
-**Are you the next Master? Join the race.**
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>Master Trading Arena</title>
+    <style>
+        body { font-family: sans-serif; background: #0f172a; color: #f8fafc; text-align: center; padding: 20px; }
+        .card { border: 1px solid #334155; padding: 20px; border-radius: 10px; margin: 10px; }
+        .btn { background: #2563eb; padding: 10px 20px; color: white; border-radius: 5px; text-decoration: none; display: inline-block; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>مرحباً بك في Master Trading</h1>
+    <div class="card">
+        <h3>عناوين الإيداع</h3>
+        <p>Dogecoin: <code>DLbofEEyVgeX4WApGS8NUDhUBprz5tigsZ</code></p>
+        <p>Bitcoin: <code>bc1qtpt0cy296xm38lv9fd5wvqjwvcyhxt4xewncxf</code></p>
+    </div>
+    <div class="card">
+        <h3>الترتيب الحالي</h3>
+        <p>1. [اللاعب الأول] - ربح 200%</p>
+        <p>2. [اللاعب الثاني] - ربح 100%</p>
+        <p>3. [اللاعب الثالث] - ربح 50%</p>
+    </div>
+    <a href="https://github.com/marwansidimoussa-coder/Master/issues" class="btn">سجل مشاركتك الآن</a>
+</body>
+</html>
